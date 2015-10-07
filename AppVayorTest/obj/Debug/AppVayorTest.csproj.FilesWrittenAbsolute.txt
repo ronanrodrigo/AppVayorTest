@@ -1,0 +1,6 @@
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/bin/Debug/nunit.framework.dll
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/bin/Debug/AppVayorTest.dll.mdb
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/bin/Debug/AppVayorTest.dll
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/obj/Debug/AppVayorTest.dll
+/Users/Ronan/Codes/MeusPedidos/AppVayorTest/AppVayorTest/obj/Debug/AppVayorTest.dll.mdb

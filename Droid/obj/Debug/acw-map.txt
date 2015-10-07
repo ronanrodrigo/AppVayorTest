@@ -1,0 +1,4 @@
+AppVayorTest.Droid.MainActivity, AppVayorTest.Droid;md58353c49832374329628359516d29f782.MainActivity
+AppVayorTest.Droid.MainActivity, AppVayorTest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58353c49832374329628359516d29f782.MainActivity
+AppVayorTest.Droid.MainActivity;md58353c49832374329628359516d29f782.MainActivity
+appvayortest.droid.MainActivity;md58353c49832374329628359516d29f782.MainActivity
