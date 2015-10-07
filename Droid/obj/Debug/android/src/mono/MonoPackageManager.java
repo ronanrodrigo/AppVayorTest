@@ -127,7 +127,6 @@ class MonoPackageManager_Resources {
 		"System.Xml.ReaderWriter.dll",
 		"System.Xml.XDocument.dll",
 		"System.Xml.XmlSerializer.dll",
-		"nunit.framework.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

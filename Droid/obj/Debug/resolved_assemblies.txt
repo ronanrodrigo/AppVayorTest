@@ -51,7 +51,6 @@
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.Xml.ReaderWriter.dll
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.Xml.XDocument.dll
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.Xml.XmlSerializer.dll
-/Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/nunit.framework.dll
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.ComponentModel.DataAnnotations.dll
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.Numerics.dll
 /Users/Ronan/Codes/MeusPedidos/AppVayorTest/Droid/obj/Debug/assemblies/System.Runtime.Serialization.dll
